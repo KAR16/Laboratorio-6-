@@ -1,6 +1,6 @@
-#Laboratorio 6 - Seguridad y Auditoría de Sistemas
+# Laboratorio 6 - Seguridad y Auditoría de Sistemas
 
-#Control de Versiones y Revisión de Código
+# Control de Versiones y Revisión de Código
 
 Herramienta: Git
 Actividades:
