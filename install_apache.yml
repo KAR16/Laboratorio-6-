@@ -6,3 +6,10 @@
       apt:
         name: apache2
         state: present
+    
+
+     - name: Habilitar y iniciar Apache
+      service:
+        name: apache2
+        state: started
+        enabled: true
