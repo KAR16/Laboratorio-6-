@@ -1,0 +1,8 @@
+# archivo: install_apache.yml
+- hosts: web_servers
+  become: yes
+  tasks:
+    - name: Instalar Apache
+      apt:
+        name: apache2
+        state: present
